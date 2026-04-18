@@ -283,7 +283,6 @@ The `build` folder will contain optimized production files.
 
 ---
 
-## 📁 Project Structure
 fintech-app/
 ├── public/
 │   ├── index.html
@@ -303,7 +302,6 @@ fintech-app/
 │   └── index.css
 ├── package.json
 └── README.md
-
 ---
 
 ## 🧪 Testing the Application

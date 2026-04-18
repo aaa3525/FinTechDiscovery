@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-**[View Live Application](https://fintech-app.vercel.app)**
+**[View Live Application]([https://fintech-](https://fin-tech-discovery.vercel.app/))**
 
 ---
 
@@ -355,7 +355,7 @@ Copyright (c) 2026 Amnah
 
 **Amnah**
 - GitHub: [@aaa3525](https://github.com/aaa3525)
-- Project: [FinTech Discovery Platform](https://github.com/aaa3525/fintech-app)
+- Project: [FinTech Discovery Platform](https://github.com/aaa3525/FinTechDiscovery)
 vercel: https://fin-tech-discovery.vercel.app/
 
 ---

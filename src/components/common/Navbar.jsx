@@ -10,7 +10,7 @@ const Navbar = () => {
   
   const isActive = (path) => location.pathname === path;
   const portfolioCount = portfolio.items.length;
-  
+
   return (
     <nav className="navbar">
       <div className="nav-container">

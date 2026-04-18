@@ -11,7 +11,7 @@ const Portfolio = () => {
   if (portfolio.items.length === 0) {
     return <div style={{ textAlign: 'center', padding: '60px', background: 'white', borderRadius: '12px' }}><h2>Your Portfolio is Empty</h2><p>Start building your investment portfolio.</p><Link to="/products" className="btn-primary" style={{ background: '#0066cc', color: 'white', padding: '12px 24px', textDecoration: 'none', borderRadius: '8px', display: 'inline-block', marginTop: '16px' }}>Browse Products</Link></div>;
   }
-  
+
   const getRiskWarning = () => { if (portfolio.riskDistribution.high > 50) return "⚠️ Warning: High concentration in high-risk products (>50%)"; if (portfolio.riskDistribution.high > 30) return "⚠️ Caution: High concentration in high-risk products"; return null; };
   
   return (

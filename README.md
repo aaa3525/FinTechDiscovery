@@ -203,12 +203,11 @@ Example - Adding to Portfolio:
 
 ### Step-by-Step Setup
 
-
 # 1. Clone the repository
-git clone https://github.com/aaa3525/fintech-app.git
+git clone https://github.com/aaa3525/FinTechDiscovery
 
 # 2. Navigate to project directory
-cd fintech-app
+cd fintech-discovery
 
 # 3. Install dependencies
 npm install

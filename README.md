@@ -6,8 +6,7 @@
 
 ## 🚀 Live Demo
 
-**[View Live Application]([https://fintech-](https://fin-tech-discovery.vercel.app/))**
-
+**[View Live Application](https://fin-tech-discovery.vercel.app)**
 ---
 
 ## 📋 Table of Contents

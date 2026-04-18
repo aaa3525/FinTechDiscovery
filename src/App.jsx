@@ -37,7 +37,7 @@ function App() {
       setLoading(false);
     }
   };
-
+  
   if (loading) return <LoadingSpinner />;
   if (error) return <div style={{ textAlign: 'center', padding: '50px', color: 'red' }}>{error}</div>;
 

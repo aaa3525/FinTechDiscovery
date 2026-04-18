@@ -12,7 +12,7 @@ const ProductCard = ({ product }) => {
   const { profile } = useUserProfile();
   
   const inPortfolio = isInPortfolio(product.id);
-  
+
   const handleAddToPortfolio = () => {
     setIsAdding(true);
     setTimeout(() => {

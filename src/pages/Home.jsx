@@ -17,7 +17,7 @@ const Home = ({ products }) => {
     });
     return featured.slice(0, 5);
   };
-  
+
   return (
     <div>
       <div style={{ background: 'linear-gradient(135deg, #0066cc 0%, #0052a3 100%)', borderRadius: '12px', padding: '60px 40px', marginBottom: '40px', textAlign: 'center', color: 'white' }}>
